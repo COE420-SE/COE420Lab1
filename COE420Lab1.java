@@ -12,6 +12,8 @@ public class Calculations {
 		//member_B add the feature of subtracting x from y and print the result
 		
 		//member_C add the feature of dividing x by y and print the result
+		int div = x/y;
+		System.out.println("The division is= "+ div);
 		
 		//member_D add the feature of multiplying x by y and print the result
 		
